@@ -1,0 +1,20 @@
+body{
+  font-size:16px
+}
+
+#main-box{
+  position: relative;
+  width:32em;
+  height:32em;
+  background-color:#af2525;
+  margin:50px auto;
+}
+
+#initials{
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  color: #fff;
+  position:absolute;
+  right: 0.15em;
+  bottom: 0.05em;
+  font-size:20.5em;
+}
